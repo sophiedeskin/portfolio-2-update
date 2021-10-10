@@ -35,6 +35,13 @@ aside {
     flex-direction: column;
 }
 
+.list-group {
+    flex: 0 0 80%;
+    border-left: solid darkred 4px;
+    padding-left: 30px;
+    line-height: 30px;
+    max-width: 70%;
+}
 .content {
     flex: 0 0 80%;
     border-left: solid darkred 4px;
